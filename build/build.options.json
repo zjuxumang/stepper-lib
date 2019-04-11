@@ -1,0 +1,10 @@
+{
+  "builtInLibrariesFolders": "F:\\迅雷下载\\Mixly0.998_WIN(7.9)\\arduino-1.8.5\\libraries",
+  "customBuildProperties": "build.path=f:\\迅雷下载\\Mixly0.998_WIN(7.9)\\arduino-1.8.5\\libraries\\Stepper\\build,build.warn_data_percentage=75,runtime.tools.arduinoOTA.path=F:\\迅雷下载\\Mixly0.998_WIN(7.9)\\arduino-1.8.5\\hardware\\tools\\avr,runtime.tools.avrdude.path=F:\\迅雷下载\\Mixly0.998_WIN(7.9)\\arduino-1.8.5\\hardware\\tools\\avr,runtime.tools.avr-gcc.path=F:\\迅雷下载\\Mixly0.998_WIN(7.9)\\arduino-1.8.5\\hardware\\tools\\avr",
+  "fqbn": "arduino:avr:nano:cpu=atmega328",
+  "hardwareFolders": "F:\\迅雷下载\\Mixly0.998_WIN(7.9)\\arduino-1.8.5\\hardware",
+  "otherLibrariesFolders": "F:\\zhuzhuangtian\\documents\\Arduino\\libraries",
+  "runtime.ide.version": "10805",
+  "sketchLocation": "f:\\迅雷下载\\Mixly0.998_WIN(7.9)\\arduino-1.8.5\\libraries\\Stepper\\examples\\stepper_2wire_drive\\driver.ino",
+  "toolsFolders": "F:\\迅雷下载\\Mixly0.998_WIN(7.9)\\arduino-1.8.5\\tools-builder,F:\\迅雷下载\\Mixly0.998_WIN(7.9)\\arduino-1.8.5\\hardware\\tools\\avr"
+}

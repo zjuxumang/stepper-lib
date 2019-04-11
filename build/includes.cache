@@ -1,0 +1,27 @@
+[
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "F:\\迅雷下载\\Mixly0.998_WIN(7.9)\\arduino-1.8.5\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "F:\\迅雷下载\\Mixly0.998_WIN(7.9)\\arduino-1.8.5\\hardware\\arduino\\avr\\variants\\eightanaloginputs"
+  },
+  {
+    "Sourcefile": "f:\\迅雷下载\\Mixly0.998_WIN(7.9)\\arduino-1.8.5\\libraries\\Stepper\\build\\sketch\\driver.ino.cpp",
+    "Include": "Stepper.h",
+    "Includepath": "F:\\迅雷下载\\Mixly0.998_WIN(7.9)\\arduino-1.8.5\\libraries\\Stepper\\src"
+  },
+  {
+    "Sourcefile": "f:\\迅雷下载\\Mixly0.998_WIN(7.9)\\arduino-1.8.5\\libraries\\Stepper\\build\\sketch\\driver.ino.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "F:\\迅雷下载\\Mixly0.998_WIN(7.9)\\arduino-1.8.5\\libraries\\Stepper\\src\\Stepper.cpp",
+    "Include": "",
+    "Includepath": ""
+  }
+]
